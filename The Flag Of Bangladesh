@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Flag Of Bangladesh</title>
+    <style>
+     .rec{
+        background-color:#006a4e ;
+        height: 480px;
+        width: 800px;
+
+     }
+     .cir{
+        background-color:#f42a41 ;
+        position:absolute;
+        height: 300px;
+        width: 300px;
+        border-radius: 160px;
+        left: 220px;
+        top: 90px;
+        padding: 0;
+        margin: 0;
+     }
+    </style>
+</head>
+<body>
+    <div class="rec">
+        <div class="cir">
+
+        </div>
+    </div>
+</body>
+</html>
